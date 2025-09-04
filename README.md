@@ -47,7 +47,6 @@
 > **Codevia** is a technology startup I co-founded with a focus on **software development, DevOps, and AI solutions**.  
 > 💡 Our mission is to deliver scalable software, cloud automation, and intelligent applications for global impact.  
 
-🔹 First project secured: **$85,000 software contract**  
 🔹 Building cross-platform apps for **health tourism & AI-driven products**  
 🔹 Driving growth through **DevOps excellence and cloud-native development**  
 
