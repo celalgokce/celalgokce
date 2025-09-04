@@ -19,9 +19,9 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,ts,js,cs" /> <br/>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cs" /> <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,firebase" /> <br/>
+  <img src="https://skillicons.dev/icons?i=spring," /> <br/>
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,helm" /> <br/>
   <!-- Tools -->
@@ -60,8 +60,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/celal-g%C3%B6k%C3%A7e-511083168/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
