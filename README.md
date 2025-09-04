@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Celal Gökçe  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer;DevOps+%7C+Cloud+Automation;AI+%7C+Mobile+Applications;Co-founder+of+Codevia" alt="Typing SVG" />
+  <b>Software Engineer | DevOps & Cloud Automation | AI & Mobile Applications | Co-founder of Codevia</b>
 </p>
 
 ---
@@ -21,7 +21,7 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,cs" /> <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring," /> <br/>
+  <img src="https://skillicons.dev/icons?i=spring" /> <br/>
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,helm" /> <br/>
   <!-- Tools -->
@@ -35,15 +35,36 @@
 - 🛠️ [**aws-iac-project**](#) → Infrastructure as Code with **Terraform & AWS**  
 - 🐳 [**wp_deploy_on_aws_and_Docker_desktop**](#) → WordPress deployment with **Docker & AWS**  
 - ☁️ [**gdrive-sync-clean**](#) → Python automation for **Google Drive ↔ AWS S3**  
-- 🤖 [**TeraBot**](#) → AI-powered psychological support app (**Teknofest 2024 Finalist**)  
+
+---
+
+## 🏢 Startup Spotlight: Codevia  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codevia-Tech%20Startup-blueviolet?style=for-the-badge&logo=github" alt="Codevia Badge"/>
+</p>
+
+> **Codevia** is a technology startup I co-founded with a focus on **software development, DevOps, and AI solutions**.  
+> 💡 Our mission is to deliver scalable software, cloud automation, and intelligent applications for global impact.  
+
+🔹 First project secured: **$85,000 software contract**  
+🔹 Building cross-platform apps for **health tourism & AI-driven products**  
+🔹 Driving growth through **DevOps excellence and cloud-native development**  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celalgokce&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celalgokce&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <!-- Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=celalgokce&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celalgokce&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only" height="170"/>
+</p>
+
+<p align="center">
+  <!-- Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=celalgokce&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celalgokce&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="170"/>
 </p>
 
 ---
