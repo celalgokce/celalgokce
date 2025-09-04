@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Celal Gökçe  
 
 <p align="center">
-  <b>Software Engineer | DevOps & Cloud Automation | AI & Mobile Applications | Co-founder of Codevia</b>
+  <b>Computer Engineer | DevOps & Cloud Automation | AI & Mobile Applications | Co-founder of Codevia</b>
 </p>
 
 ---
